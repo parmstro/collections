@@ -11,3 +11,4 @@ collections:
 - azure.azcollection
 
 # - amazon.aws
+# This currently has failures

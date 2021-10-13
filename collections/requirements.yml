@@ -8,7 +8,7 @@ collections:
 - ansible.utils
 - ansible.windows
 - ansible.tower
-- awx.awx
+# - awx.awx
 - community.general
 - redhat.satellite
 - redhat.satellite_operations

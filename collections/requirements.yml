@@ -2,8 +2,8 @@
 # This requirements file lists all the collections from
 # the red hat ansible automation hub that we want installed on Tower
 collections:
-- ansible.utils
-- ansible.tower
+- ansible.*
+# - ansible.tower
 - redhat.satellite
 - redhat.satellite_operations
 - redhat.rhel_system_roles

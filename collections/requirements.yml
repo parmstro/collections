@@ -2,19 +2,16 @@
 # This requirements file lists all the collections from
 # the red hat ansible automation hub that we want installed on Tower
 collections:
-# - ansible.builtin
+
 - ansible.netcommon
 - ansible.posix
 - ansible.utils
 - ansible.windows
 - ansible.tower
-# - awx.awx
-# - community.general
+
 - redhat.satellite
 - redhat.satellite_operations
 - redhat.rhel_system_roles
 - redhat.insights
 - azure.azcollection
 
-# - amazon.aws
-# This currently has failures

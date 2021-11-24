@@ -8,6 +8,7 @@ collections:
 - ansible.utils
 - ansible.windows
 - ansible.tower
+- ansible.controller
 - redhat_cop.tower_configuration
 - redhat.satellite
 - redhat.satellite_operations

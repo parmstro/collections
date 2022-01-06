@@ -1,8 +1,8 @@
-#requirements.yml
+---
+# requirements.yml
 # This requirements file lists all the collections from
 # the red hat ansible automation hub that we want installed on Tower
 collections:
-
 - ansible.netcommon
 - ansible.posix
 - ansible.utils

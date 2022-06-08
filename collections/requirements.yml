@@ -13,6 +13,7 @@ collections:
 - redhat_cop.tower_configuration
 - redhat.satellite
 - redhat.satellite_operations
+- redhat.rhel_idm
 - redhat.rhel_system_roles
 - redhat.insights
 - azure.azcollection
